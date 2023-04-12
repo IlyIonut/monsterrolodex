@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.app-title{
+  margin: 75px;
+  margin-bottom: 50px;
+  font-size:76px;
+  color: #0ccac4;
+  font-family: "Poppins";
+}
